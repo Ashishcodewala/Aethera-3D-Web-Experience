@@ -1,0 +1,102 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: #ffdbdb; 
+}
+
+.login-container {
+    width: 350px;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.7); 
+    border-radius: 20px; 
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(255, 255, 255, 0.9) inset;
+    backdrop-filter: blur(10px); 
+    border: 1px solid rgba(255, 255, 255, 0.5); 
+}
+
+.login-title {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #333; 
+    margin-bottom: 30px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    box-sizing: border-box;
+    background-color: white; 
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); 
+    color: #333;
+}
+
+.login-form input::placeholder {
+    color: #aaa;
+    font-weight: 400;
+}
+
+.login-button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    background: linear-gradient(90deg, #ff6b9a 0%, #8e2de2 100%);
+    transition: background 0.3s ease;
+    box-shadow: 0 5px 15px rgba(150, 50, 200, 0.3); 
+}
+
+.login-button:hover {
+    background: linear-gradient(90deg,#a240ff 0%,  #ff7fae 100%);
+}
+
+.signup-link {
+    margin-top: 30px;
+    font-size: 0.95em;
+    color: #666;
+}
+
+.signup-link strong {
+    color: #8e2de2; 
+    cursor: pointer;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    color: #8e2de2;
+    font-size: 1.2em;
+    text-decoration: none;
+  
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.social-icon:hover {
+    transform: translateY(-2px);
+}
