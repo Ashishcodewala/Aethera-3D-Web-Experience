@@ -41,6 +41,14 @@ I'm always open to discussing new projects, web technologies, or collaboration o
 | **GitHub** | [Ashishcodewala](https://github.com/Ashishcodewala) |
 | **YouTube** | [@msoffice-v3q](https://youtube.com/@msoffice-v3q?si=LtqehBdBDf7petD1) |
 | **WhatsApp Channel** | [Join Channel](https://whatsapp.com/channel/0029Va4RWD5LtOjKsNTwQG2p) |
-| **LinkedIn** | *[Add your LinkedIn profile link here]* |
 
 **© 2025 Aethera. All rights reserved.**
+
+<img width="1599" height="768" alt="Screenshot 2025-11-08 103409" src="https://github.com/user-attachments/assets/11a7d1d7-54fc-42af-a812-cd2790adbd2b" />
+<img width="1599" height="764" alt="Screenshot 2025-11-08 103429" src="https://github.com/user-attachments/assets/51a9514a-b4b2-48c3-b8bd-efb1f5a65e36" />
+<img width="1584" height="766" alt="Screenshot 2025-11-08 103448" src="https://github.com/user-attachments/assets/f4d9c0ce-e296-4df2-b452-b858d1e08903" />
+
+
+
+
+
