@@ -37,6 +37,7 @@ Experience the 3D background live on the deployed site:
 I'm always open to discussing new projects, web technologies, or collaboration opportunities!
 
 | Platform | Link |
+| :--- | :--- |
 | **Website Link** | [Link](https://ashishcodewala.github.io/Aethera-3D-Web-Experience/) |
 | **GitHub** | [Ashishcodewala](https://github.com/Ashishcodewala) |
 | **YouTube** | [@msoffice-v3q](https://youtube.com/@msoffice-v3q?si=LtqehBdBDf7petD1) |
