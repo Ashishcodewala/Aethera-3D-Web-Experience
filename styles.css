@@ -421,7 +421,6 @@ body {
 
     .right-sidebar {
         width: 100%; 
-        padding-top: 100px;
         gap: 10px;
         flex-direction: row; 
         flex-wrap: wrap; 
@@ -455,5 +454,6 @@ body {
         padding: 10px 0;
         border-bottom: none;
     }
+
 
 }
