@@ -38,7 +38,7 @@ I'm always open to discussing new projects, web technologies, or collaboration o
 
 | Platform | Link |
 | :--- | :--- |
-| **Website Link** | [Link](https://ashishcodewala.github.io/Aethera-3D-Web-Experience/) |
+| **Website Link** | [Link](https://ashishkfrontend.github.io/Aethera-3D-Web-Experience/) |
 | **GitHub** | [Ashishcodewala](https://github.com/Ashishcodewala) |
 | **YouTube** | [@msoffice-v3q](https://youtube.com/@msoffice-v3q?si=LtqehBdBDf7petD1) |
 | **WhatsApp Channel** | [Join Channel](https://whatsapp.com/channel/0029Va4RWD5LtOjKsNTwQG2p) |
